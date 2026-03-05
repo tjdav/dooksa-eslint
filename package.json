@@ -1,0 +1,22 @@
+{
+  "name": "@dooksa/eslint",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://codeberg.org/tjdavid/dooksa-eslint.git",
+    "directory": "packages/create-coralite"
+  },
+  "author": {
+    "name": "Thomas David",
+    "url": "https://thomasjackdavid.com"
+  },
+  "license": "AGPL-3.0-only",
+  "packageManager": "pnpm@10.30.3",
+  "peerDependencies": {
+    "@stylistic/eslint-plugin": "^5.9.0",
+    "eslint": "^10.0.2",
+    "eslint-plugin-jsdoc": "^62.7.1"
+  }
+}
