@@ -12,6 +12,17 @@
     "name": "Thomas David",
     "url": "https://thomasjackdavid.com"
   },
+  "files": ["index.js"],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config",
+    "flat-config",
+    "stylistic",
+    "jsdoc",
+    "linting",
+    "dooksa"
+  ],
   "license": "AGPL-3.0-only",
   "packageManager": "pnpm@10.30.3",
   "peerDependencies": {
