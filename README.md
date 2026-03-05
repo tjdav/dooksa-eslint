@@ -33,6 +33,6 @@ export default [
 * **JSDoc Validation:** Ensures documentation consistency via `eslint-plugin-jsdoc`.
 * **Default Ignores:** Automatically ignores common build and output directories (like `dist/`, `.history/`, and `playwright-report/`).
 
-## 📄 License
+## License
 
 [AGPL-3.0-only](https://www.gnu.org/licenses/agpl-3.0.en.html) © Thomas David
