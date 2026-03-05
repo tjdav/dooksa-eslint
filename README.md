@@ -3,7 +3,7 @@
 
 Dooksa's shared ESLint configuration. This package provides a strict, standardized linting setup utilizing ESLint's new Flat Config format, heavily focused on code style via `@stylistic/eslint-plugin` and JSDoc validation via `eslint-plugin-jsdoc`.
 
-## 🚀 Usage
+## Usage
 
 This package exports an array of configuration objects designed for ESLint's Flat Config format (`eslint.config.js` or `eslint.config.mjs`).
 
