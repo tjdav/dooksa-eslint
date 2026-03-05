@@ -5,8 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://codeberg.org/tjdavid/dooksa-eslint.git",
-    "directory": "packages/create-coralite"
+    "url": "https://codeberg.org/tjdavid/dooksa-eslint.git"
   },
   "author": {
     "name": "Thomas David",
