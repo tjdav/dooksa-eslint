@@ -1,7 +1,7 @@
 {
   "name": "@dooksa/eslint",
   "version": "0.1.0",
-  "description": "",
+  "description": "Dooksa eslint shared config ",
   "main": "index.js",
   "repository": {
     "type": "git",
