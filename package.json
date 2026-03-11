@@ -1,6 +1,6 @@
 {
   "name": "@dooksa/eslint",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Dooksa eslint shared config ",
   "main": "index.js",
   "repository": {
@@ -26,8 +26,8 @@
   "license": "AGPL-3.0-only",
   "packageManager": "pnpm@10.30.3",
   "peerDependencies": {
-    "@stylistic/eslint-plugin": "^5.9.0",
-    "eslint": "^10.0.2",
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "eslint": "^10.0.3",
     "eslint-plugin-jsdoc": "^62.7.1"
   }
 }
